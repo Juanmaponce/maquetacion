@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    padding: 0 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+.super-contenedora{
+    background-color: navy;
+    padding: 20px;
+}
+
+header{
+    background-color: rgb(112, 112, 189);
+    margin: 5px;
+    height: 100px;
+}
+
+nav{
+    background-color: rgb(91, 179, 113);
+    text-align: center;
+    margin: 5px;
+    height: 50px;
+}
+
+.contenedora{
+    height:200px;
+}
+
+.main-content{
+    margin-left:5px ;
+    background-color: darkolivegreen;
+    float: left;
+    width: 70%;
+    height: 100%;
+}
+
+article{
+    text-align: center;
+    background-color: rgb(83, 137, 219);
+    padding: 20px;
+    margin: 15px;
+}
+
+aside{
+    background-color: gold;
+    width: 28%;
+    height: 100%;
+    float: right;
+    margin: 0 5px;
+}
+
+footer{
+    background-color: brown;
+    margin:5px;
+
+}
